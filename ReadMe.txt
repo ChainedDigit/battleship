@@ -1,4 +1,4 @@
-The game was made and only tested on Windows 10. Ngl, it probably doesn't work anywhere else.
+The game was made and only tested on Windows 10. Ngl, it probably won't work anywhere else.
 
 All you need is already included in the .exe program. 
 Just download and run it. 
